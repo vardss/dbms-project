@@ -1,20 +1,40 @@
 # Hotel Management System
- Welcome to Hotel Database Management system Project!
- 
- If you like the repo do ⭐ it.
-# Project Overview
- This project is a database management system designed for managing hotel operations, including customer bookings, room management, facilities, and payments Tables
-# Basic Structure
-## Database Entities
- There are 5 entities in this database. They are
- - HOTEL
- - ROOMS
- - FACILITIES
- - CUSTOMERS
- - PAYMENTS
 
+Welcome to the *Hotel Database Management System Project*!  
 
- Each entity consists of several attributes.
+---
 
-## Entity Relationship diagram
-![WhatsApp Image 2024-07-17 at 16 34 07](https://github.com/user-attachments/assets/eecb57ab-2f36-43e7-81ac-d3f6dfbfd436)
+## Project Overview
+This project is a simple and structured implementation of a relational database for managing hotel operations.This Database Management System (DBMS) designed to manage and streamline hotel operations, including:
+
+- Customer bookings  
+- Room management  
+- Facilities  
+- Payments  
+
+It includes SQL table creation scripts, queries, and an Entity-Relationship diagram for visualizing the schema.
+
+---
+
+## Basic Structure
+
+### Database Entities
+
+The system consists of 5 entities, each representing a table in the database:
+
+1. *HOTEL* – Stores hotel details  
+2. *ROOMS* – Contains information about available rooms  
+3. *FACILITIES* – Lists services and amenities provided  
+4. *CUSTOMERS* – Holds customer and booking information  
+5. *PAYMENTS* – Manages payment records  
+
+Each entity includes multiple attributes that define its properties.
+
+---
+
+##  Entity-Relationship Diagram
+
+Below is a visual representation of the relationships among the database entities:
+
+![ER Diagram](https://github.com/vardss/dbms-project/blob/main/er_model.jpg)
+
