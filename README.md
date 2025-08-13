@@ -38,3 +38,4 @@ Below is a visual representation of the relationships among the database entitie
 
 ![ER Diagram](https://github.com/vardss/dbms-project/blob/main/er_model.jpg)
 
+
